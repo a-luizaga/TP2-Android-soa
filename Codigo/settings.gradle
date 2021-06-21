@@ -1,0 +1,2 @@
+include ':app', ':hellocharts-library-1.5.8', ':jsoup-1.13.1'
+rootProject.name='TrabajoPractico2'
